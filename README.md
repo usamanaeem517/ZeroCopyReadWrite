@@ -5,4 +5,4 @@
 <pre><code>make </code></pre>
 
 ## To execute:
-<pre><code>./runner</code></pre>
+<pre><code>./call_runner.sh</code></pre>
